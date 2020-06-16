@@ -7,3 +7,11 @@ The neuronetwork itself comprises of 10 hidden layers
 ![ALT](/extras/nn.svg "NN Chart")
 
 ### Running The Algorithm
+1. Clone rep
+```
+git clone <repo>
+```
+2. install python modules required
+```
+pip install -r requirements.txt
+```
