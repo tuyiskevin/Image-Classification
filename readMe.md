@@ -15,3 +15,7 @@ git clone <repo>
 ```
 pip install -r requirements.txt
 ```
+3. Run algorithm
+```
+python Run.py
+```
